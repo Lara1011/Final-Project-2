@@ -7,7 +7,7 @@
 
 
 ##### About the notebooks :
-1. Passengers flight satisfaction : It deals with classifying the passengers satisfaction of the flight.
-2. Fashion mnist : It deals with classifying clothes.
-3. Dogs vs cats : It deals with classifying the dogs and cats.
-4. Hand movement : It deals with classifying 3 situations the hand could be in.
+1. **Passengers flight satisfaction :** It deals with classifying the passengers satisfaction of the flight.
+2. **Fashion mnist :** It deals with classifying clothes.
+3. **Dogs vs cats :** It deals with classifying the dogs and cats.
+4. **Hand movement :** It deals with classifying 3 situations the hand could be in.
